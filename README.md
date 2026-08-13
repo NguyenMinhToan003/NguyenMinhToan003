@@ -3,9 +3,7 @@
 * 🧘 **About Me:** Backend Developer passionate about building high-performance applications.
 * 🛠️ **I'm currently working on:** Backend Development using NestJS, Node.js, and TypeORM.
 * 🤝 **I'm looking to collaborate on:** Backend services, APIs, and microservices projects.
-* 🆘 **I'm looking for help with:** Advanced DevOps practices and system scaling.
 * 🌱 **I'm currently learning:** DevOps, Kubernetes, and CI/CD pipelines.
-* 💬 **Ask me about:** NestJS, microservices architecture, or backend performance optimization.
 
 ---
 
